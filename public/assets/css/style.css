@@ -1,0 +1,17 @@
+/* 
+Template Name: MemecoinOwner
+Version: 1.0
+Author: coderthemes
+Email: MemecoinOwner
+File: style.scss
+*/
+
+/* Google Font Family Link */
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&display=swap');
+@import "custom/_reboot.css";
+@import "custom/_navbar.css";
+@import "custom/_swiper.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
